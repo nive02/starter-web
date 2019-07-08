@@ -1,6 +1,7 @@
 # Starter Web Project 
 
 This is a simple website project for showing how to use Git an GitHub together.
+adding a random new line whoo hooo 
 
 ## Introduction
 
@@ -18,6 +19,6 @@ This is gettin repetitive and I'm so bored right now
 
 Please fork this 
 
-###Copyright
+##Copyright
 
 2019 Nivetha 
