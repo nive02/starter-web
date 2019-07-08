@@ -1,7 +1,8 @@
 # Starter Web Project 
 
 This is a simple website project for showing how to use Git an GitHub together.
-adding a random new line whoo hooo 
+adding a random new line whoo hooo,
+more change from myfeature brack 2 
 
 ## Introduction
 
