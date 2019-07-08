@@ -8,6 +8,10 @@ Purpose is to show different repositories in Git and GitHub.
 
 ## Purpose
 
+Show the different examples and blah blah...
+
 ## Deployment
+
+This is gettin repetitive and I'm so bored right now
 
 ## How to Contribute
