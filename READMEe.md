@@ -15,3 +15,7 @@ Show the different examples and blah blah...
 This is gettin repetitive and I'm so bored right now
 
 ## How to Contribute
+
+###Copyright
+
+2019 Nivetha 
