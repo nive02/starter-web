@@ -16,6 +16,8 @@ This is gettin repetitive and I'm so bored right now
 
 ## How to Contribute
 
+Please fork this 
+
 ###Copyright
 
 2019 Nivetha 
